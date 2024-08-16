@@ -68,6 +68,13 @@ opt-level = "z"
 name = "blinky"
 path = "src/demo/blinky.rs"
 
-# [[bin]]
+#[[bin]]
 # name = "my_bin"
 # path = "path/to/my/bin"
+
+
+#name = "ex4"
+#path = "src/exercitii/ex4.rs"
+[[bin]]
+name = "i2c"
+path = "src/exercitii/i2c.rs"
