@@ -75,10 +75,14 @@ path = "src/demo/blinky.rs"
 
 #name = "ex4"
 #path = "src/exercitii/ex4.rs"
-[[bin]]
-name = "i2c"
-path = "src/exercitii/i2c.rs"
+#[[bin]]
+#name = "i2c"
+#path = "src/exercitii/i2c.rs"
+
+#[[bin]]
+#name = "spi"
+#path = "src/exercitii/spi.rs"
 
 [[bin]]
-name = "spi"
-path = "src/exercitii/spi.rs"
+name = "memgame"
+path = "src/exercitii/memory_game.rs"
