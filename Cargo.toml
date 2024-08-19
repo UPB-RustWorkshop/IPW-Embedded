@@ -73,6 +73,7 @@ opt-level = "z"
 name = "blinky"
 path = "src/demo/blinky.rs"
 
+
 [[bin]]
 name = "web"
 path = "src/demo/web.rs"
@@ -80,3 +81,18 @@ path = "src/demo/web.rs"
 # [[bin]]
 # name = "my_bin"
 # path = "path/to/my/bin"
+
+
+#name = "ex4"
+#path = "src/exercitii/ex4.rs"
+#[[bin]]
+#name = "i2c"
+#path = "src/exercitii/i2c.rs"
+
+#[[bin]]
+#name = "spi"
+#path = "src/exercitii/spi.rs"
+
+[[bin]]
+name = "memgame"
+path = "src/exercitii/memory_game.rs"
